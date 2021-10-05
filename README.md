@@ -1,4 +1,6 @@
-# techlurning.com
+# live site: https://techlurning.netlify.app/home
+
+## Techlurning
 
 ## techlurning is a online learning platform for everyone.
 
