@@ -2,7 +2,7 @@
 
 ## Techlurning
 
-## techlurning is a online learning platform for everyone.
+## techlurning is an online learning platform for everyone.
 
 ### About techlearning:
 * we provide best quality education.
