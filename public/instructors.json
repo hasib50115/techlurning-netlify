@@ -1,0 +1,6 @@
+[
+    {"id": 1, "name": "John Due", "designation" : "Web Developer","img": "https://www.themobileheadshot.com/wp-content/uploads/2021/03/Studio-Session-006-Edit.jpg"},
+    {"id": 2, "name": "Ben Stokes", "designation" : "Cyber Security Specialist","img": "https://iimidr.irins.org/assets/profile_images/92143.jpg"},
+    {"id": 3, "name": "Themix", "designation" : "Graphic Designer","img": "https://cdn.theorg.com/f148aefc-c6f9-43bc-8eb8-58a928673b98_small.png"},
+    {"id": 4, "name": "Lynda", "designation" : "Data Scientist","img": "https://vardfokus.se/wp-content/uploads/vfimages/998aff913ea44e5c904c1f0238709134/a16835b29a904056a53cff05bb9a68df-460x472.jpg"}
+]

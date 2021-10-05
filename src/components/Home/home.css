@@ -1,0 +1,38 @@
+.home-title{
+    margin-top: 50px;
+    color: #45567C;
+    font-size: 40px;
+    padding: 50px;
+}
+.top-courses{
+    text-align: left;
+    font-size: 40px;
+    color: #45567C;
+}
+/* best 4 course related info card  */
+.best{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    
+}
+/* top courses title styles  */
+.container{
+    margin-top: 100px;
+    width: 80%;
+}
+.home-title{
+    color: #45567C;
+    font-weight: 700;
+    padding: 50px;
+}
+.heading{
+    width: 80%;
+}
+.top-courses{
+    margin: auto;
+    color: #45567C;
+    font-size: 40px;
+
+}
+
